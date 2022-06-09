@@ -21,7 +21,7 @@ It's should be save the word2vec.model and word2vec.model.vecors.npy
 
 ## Download YOLO weights.
 
-https://ppt.cc/fLvgmy
+https://ppt.cc/fLvgmx
 
 
 ## Weights location
