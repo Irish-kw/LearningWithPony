@@ -14,3 +14,7 @@ model.save("word2vec.model")
 It's should be save the word2vec.model and word2vec.model.vecors.npy
 
 ## Download YOLO weights.
+
+https://ppt.cc/fLvgmx
+
+
