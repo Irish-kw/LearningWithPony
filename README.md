@@ -18,3 +18,10 @@ It's should be save the word2vec.model and word2vec.model.vecors.npy
 https://ppt.cc/fLvgmx
 
 
+## Weights location
+
+Put the word2vec.model, word2vec.model.vecors.npy and yolov4.h5 in the root dictionary (same path with Main.py)
+
+
+
+
