@@ -13,7 +13,7 @@ from gensim.models import KeyedVectors
 
 import gensim.downloader as api
 
-model = api.load()
+model = api.load("word2vec-google-news-300")
 
 model.save("word2vec.model")
 
