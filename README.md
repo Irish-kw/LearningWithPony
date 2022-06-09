@@ -2,7 +2,10 @@
 NTU project - Learning language with pony
 
 
-![image](https://github.com/weisting-kw/FluidDynamic-RollingPiston-Simulation/blob/master/mach.png)
+![image](https://github.com/weisting-kw/LearningWithPony/blob/main/Exhibition%20Image/yugioh.png)
+![image](https://github.com/weisting-kw/LearningWithPony/blob/main/Exhibition%20Image/museum1.jpg)
+![image](https://github.com/weisting-kw/LearningWithPony/blob/main/Exhibition%20Image/museum2.jpg)
+![image](https://github.com/weisting-kw/LearningWithPony/blob/main/Exhibition%20Image/museum3.jpg)
 
 ## Download Word2vec weights
 
