@@ -11,4 +11,6 @@ model = api.load("word2vec-google-news-300")
 
 model.save("word2vec.model")
 
+It's should be save the word2vec.model and word2vec.model.vecors.npy
+
 ## Download YOLO weights.
