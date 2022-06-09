@@ -1,6 +1,9 @@
 # LearningWithPony
 NTU project - Learning language with pony
 
+
+![image](https://github.com/weisting-kw/FluidDynamic-RollingPiston-Simulation/blob/master/mach.png)
+
 ## Download Word2vec weights
 
 from gensim.models import KeyedVectors
